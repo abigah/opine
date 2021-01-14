@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Skeleton\Tests;
+namespace Abigah\Opine\Tests;
 
 class ExampleTest extends TestCase
 {

@@ -1,12 +1,12 @@
 <?php
 
-namespace Spatie\Skeleton\Commands;
+namespace Abigah\Opine\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class OpineCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'opine';
 
     public $description = 'My command';
 
