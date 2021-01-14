@@ -2,8 +2,8 @@
 
 namespace Abigah\Opine;
 
-use Illuminate\Support\ServiceProvider;
 use Abigah\Opine\Commands\OpineCommand;
+use Illuminate\Support\ServiceProvider;
 
 class OpineServiceProvider extends ServiceProvider
 {

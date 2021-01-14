@@ -2,9 +2,9 @@
 
 namespace Abigah\Opine\Tests;
 
+use Abigah\Opine\OpineServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Abigah\Opine\OpineServiceProvider;
 
 class TestCase extends Orchestra
 {
